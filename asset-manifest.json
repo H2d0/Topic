@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Topic/static/css/main.b3634b80.css",
-    "main.js": "/Topic/static/js/main.8bc67874.js",
+    "main.js": "/Topic/static/js/main.a9559033.js",
     "static/js/787.4b1552e3.chunk.js": "/Topic/static/js/787.4b1552e3.chunk.js",
     "static/media/colleagues-working-cozy-office-medium-shot.jpg": "/Topic/static/media/colleagues-working-cozy-office-medium-shot.ede31081d8882c544d99.jpg",
     "static/media/faq_graphic.jpg": "/Topic/static/media/faq_graphic.d1d172e90baa9a8691da.jpg",
@@ -21,11 +21,11 @@
     "static/media/undraw_Graduation_re_gthn.png": "/Topic/static/media/undraw_Graduation_re_gthn.caea70e5c92877c83972.png",
     "index.html": "/Topic/index.html",
     "main.b3634b80.css.map": "/Topic/static/css/main.b3634b80.css.map",
-    "main.8bc67874.js.map": "/Topic/static/js/main.8bc67874.js.map",
+    "main.a9559033.js.map": "/Topic/static/js/main.a9559033.js.map",
     "787.4b1552e3.chunk.js.map": "/Topic/static/js/787.4b1552e3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b3634b80.css",
-    "static/js/main.8bc67874.js"
+    "static/js/main.a9559033.js"
   ]
 }
